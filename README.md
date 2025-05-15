@@ -13,7 +13,7 @@ A Python-based tool that uses the BART (Facebook/bart-large-cnn) transformer mod
 ## Try it Online
 
 You can try this notebook directly in Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bcl-8BpwqsZl_H3dXPwJY7tmdc5BPSaq?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O-8r695Xedj89AaAy87lNWLyTZA8NeSz?usp=sharing)
 
 ## Requirements
 
